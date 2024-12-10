@@ -1,1 +1,1 @@
-Texas Hold'em Poker
+9-Handed Texas Hold'em Poker
