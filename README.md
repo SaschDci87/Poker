@@ -1,1 +1,1 @@
-8-Handed Texas Hold'em Poker
+6-Handed Texas Hold'em Poker
